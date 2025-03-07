@@ -1,6 +1,6 @@
 <h2>This is me :v:<h2>
 
-- 👋 Hi, I’m Thomas, I'm a full stack Angular-Java developer. I have a Bsc in computure science and working as a software consultant since 2016. 
+- 👋 Hi, I’m Thomas, I'm a full stack Angular-Java developer. I have a Bsc in computer science and working as a software consultant since 2016. 
 
 - 👀 My main interest is ofcourse still career related, but not persé tech skills. I want to pursue a more managing role, but this requires people skill, being able to listen and motivate my peers. But but besides my career, I'm a fanatic crossfit and painter. Crossfit for when I have too much energy and painting for when I need to take some steps back and reflect.
 
